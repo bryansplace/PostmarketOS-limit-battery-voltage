@@ -5,6 +5,8 @@ When using an old smartphone as a permanent server that's always plugged into po
 
 Lithium-ion batteries degrade faster when kept at high voltages. By limiting the maximum charge voltage to 3.8V instead of the standard 4.4V,  the battery is kept at approximately 40-50% charge, which dramatically reduces stress and extends its useful life - essential for a device that's permanently connected to power.
 
+## [Discussion](https://github.com/bryansplace/PostmarketOS-limit-battery-voltage/discussions)
+
 ## Background
 This guide shows how to modify the 'device tree' to lower the maximum charging voltage from 4.4V (100% charge) to 3.8V (~40-50% charge), which is much healthier for a battery that's permanently connected to power.
 
